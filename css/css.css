@@ -23,6 +23,10 @@ ul li {
     border-radius: 5px;
     cursor: pointer;
 }
+ul li:hover{
+    transform: scale(1.2);
+    transition: all 0.3s;
+}
 .red{
     background-color: brown;
 
